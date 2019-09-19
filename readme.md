@@ -2,7 +2,7 @@
 discord bot written in python that performs benny-related functions
 
 ## deployment
-replace token placeholder in [bot.py](bot.py) with bot user token
+replace id and token placeholders in [bot.py](bot.py) with bot user id and token
 
 replace sample quotes in [quotes.txt](quotes.txt) with actual quotes
 
